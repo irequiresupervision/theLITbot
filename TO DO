@@ -1,0 +1,4 @@
+ In Visual Studio:
+On button click, retrieve the item specified by its <a href> tag. ie: /shop/tops-sweaters/nshdmi50n/vkn420a1v
+
+May not need PHP for crawler if this method works 
